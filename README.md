@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b61d6fd-2dd1-41e7-8f61-718efbd6e3a0) (Fonte CGI/CIn/UFPE) Problema do metrô de Paris
+(Fonte CGI/CIn/UFPE) Problema do metrô de Paris
 Suponha que queremos construir um sistema para auxiliar um usuário do metrô de
 Paris a saber o trajeto mais rápido entre a estação onde ele se encontra e a estação de
 destino. O usuário tem um painel com o mapa, podendo selecionar a sua estação de
@@ -13,3 +13,4 @@ facilitar a vida, considere apenas 4 linhas do metrô.
 minutos.
 Formule e implemente este problema para o estado inicial E1, e estado final E12 para
 busca heurística com A*. Defina a função de avaliação.
+![image](https://github.com/user-attachments/assets/8b61d6fd-2dd1-41e7-8f61-718efbd6e3a0)
